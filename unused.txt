@@ -13,3 +13,9 @@
        </div>
 
 test
+
+<ul class="no-bullets">
+    <li>Laptop</li>
+    <li>Smartphone</li>
+    <li>accessories</li>
+</ul>   
