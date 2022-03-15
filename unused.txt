@@ -1,0 +1,13 @@
+            
+<form>
+    <input type="text" name="search" placeholder="Search..">
+</form>
+
+       <div class="header-bar">
+            <button class="log-button1">
+                <h5>Daftar</h5>
+            </button>
+            <button class="log-button1">
+                <h5>Masuk</h5>
+            </button>
+       </div>
